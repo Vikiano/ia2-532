@@ -1,7 +1,7 @@
 # How to deploy a Dash-R app to Heroku
 
 This repo contains the necessary files for deploying a Dash-R app to Heroku.
-The deployed app is hosted here https://dashr-heroku-deployment-demo.herokuapp.com/.
+The deployed app is hosted here https://dsc-532-ia2-vicfranc.herokuapp.com/.
 
 Steps to reproduce:
 
