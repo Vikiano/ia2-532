@@ -5,8 +5,8 @@ The deployed app is hosted here https://dsc-532-ia2-vicfranc.herokuapp.com/.
 
 Steps to reproduce:
 
-1. `git clone git@github.com:UBC-MDS/dashr-heroku-deployment-demo.git`
-2. `cd dashr-heroku-deployment-demo`
+1. `git clone https://github.com/Vikiano/ia2-532
+2. `cd ia2-532`
 3. `heroku create --stack container your-heroku-site`
 4. `git push heroku main`
 5. Wait ~15 min for the build to finish.
